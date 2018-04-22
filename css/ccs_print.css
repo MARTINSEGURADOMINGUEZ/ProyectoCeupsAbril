@@ -1,0 +1,19 @@
+#table_hide, #table_hide2 {
+ 
+ display:none;
+ 
+}
+
+body {
+    background: #FFFFFF;
+	
+}
+/*
+div.page 
+*/
+/*
+body { 
+writing-mode: tb-rl;
+height: 80%;
+margin: 10% 0%;
+}*/

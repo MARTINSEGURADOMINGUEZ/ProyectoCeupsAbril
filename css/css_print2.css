@@ -1,0 +1,31 @@
+
+
+#table_hide, #table_hide2, #header, #navigator, #footer, #tabla_buscar, #imprimir, #tabla3, #titulo {
+ 
+ display:none;
+ 
+}
+
+body {
+    background: #FFFFFF;
+	
+}
+
+/*#tabla2{
+		font-size: 18px;
+		border-style: solid;
+		border-color: #666666;
+		border-width: 1px;
+		height:800px;
+		
+}*/
+/*
+div.page 
+*/
+/*
+body { 
+writing-mode: tb-rl;
+height: 80%;
+margin: 10% 0%;
+}*/
+
