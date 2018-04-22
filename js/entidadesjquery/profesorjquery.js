@@ -136,9 +136,9 @@ $(document).ready(function()
        var nombre = $("#nombre").val();
        var telefono = $("#telefono").val();
        var celular = $("#celular").val();
-       var email = $("#").val();
-       var domicilio = $("#").val();
-       var distrito = $("#").val();
+       var email = $("#email").val();
+       var domicilio = $("#domicilio").val();
+       var distrito = $("#distrito").val();
        
        //AQUI SUPUESTAMENTE YA VALIDE EL INGRESO;
        
