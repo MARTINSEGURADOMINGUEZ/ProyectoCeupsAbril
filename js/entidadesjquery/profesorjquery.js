@@ -131,11 +131,11 @@ $(document).ready(function()
     $("#registrarDocente").click(function(e){
        e.preventDefault();
        
-       var dni = $("#").val();
-       var apellido = $("#").val();
-       var nombre = $("#").val();
-       var telefono = $("#").val();
-       var celular = $("#").val();
+       var dni = $("#dni").val();
+       var apellido = $("#apellido").val();
+       var nombre = $("#nombre").val();
+       var telefono = $("#telefono").val();
+       var celular = $("#celular").val();
        var email = $("#").val();
        var domicilio = $("#").val();
        var distrito = $("#").val();
